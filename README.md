@@ -18,9 +18,19 @@ Comenzamos con un proceso de ETL donde se extrajeron los datos de diferentes pla
 
 Una vez que los datos estuvieron disponibles en la base de datos, se llevó a cabo un análisis exploratorio de datos. Esta etapa permitió analizar los datos recopilados y obtener las principales métricas relevantes para el marketing en el sector del gaming. Para visualizar y presentar los resultados, se utilizó la herramienta Tableau.
 
+![Ejemplo de imagen](/imagenes/Dashboard%201.png)
+
+![Ejemplo de imagen](/imagenes/Dashboard%201%20(1).png)
+
+![Ejemplo de imagen](/imagenes/Dashboard%201%20(2).png)
+
+![Ejemplo de imagen](/imagenes/LO_MAS_STRIMEADO.png)
+
 ### 3. Entrenamiento de un modelo de Procesamiento de Lenguaje Natural (PLN)
 
 Como parte fundamental del proyecto, se entrenó un modelo de PLN con el objetivo de identificar comentarios positivos o negativos sobre el contenido de gaming. Este modelo permitió categorizar los comentarios obtenidos de los usuarios en redes sociales como "recomendable" o "no recomendable". Con esta información, se logró generar una herramienta completa que facilita la generación de estrategias de marketing efectivas en el sector del gaming.
+
+![Ejemplo de imagen](/imagenes/ml_error.png)
 
 ## Conclusión: Próximos pasos - Escalabilidad
 
