@@ -18,12 +18,16 @@ Comenzamos con un proceso de ETL donde se extrajeron los datos de diferentes pla
 
 Una vez que los datos estuvieron disponibles en la base de datos, se llevó a cabo un análisis exploratorio de datos. Esta etapa permitió analizar los datos recopilados y obtener las principales métricas relevantes para el marketing en el sector del gaming. Para visualizar y presentar los resultados, se utilizó la herramienta Tableau.
 
+*El top de gamers españoles*
 ![Ejemplo de imagen](/imagenes/Dashboard%201.png)
 
+*Gamers de mayor crecimiento de seguidores*
 ![Ejemplo de imagen](/imagenes/Dashboard%201%20(1).png)
 
+*Los juegos más vistos y tendencias*
 ![Ejemplo de imagen](/imagenes/Dashboard%201%20(2).png)
 
+*Los juegos más jugados por los gamers y sus tipos*
 ![Ejemplo de imagen](/imagenes/LO_MAS_STRIMEADO.png)
 
 ### 3. Entrenamiento de un modelo de Procesamiento de Lenguaje Natural (PLN)
@@ -41,3 +45,5 @@ En cuanto a los próximos pasos, se plantea la creación de una interfaz interac
 Agradezco a todos aquellos que brindaron su apoyo y contribuyeron al desarrollo de este proyecto. Espero que esta herramienta sea de utilidad para mejorar las campañas de marketing dirigidas a los gamers y contribuya al crecimiento del sector del gaming.
 
 ¡Muchas gracias!
+
+![Ejemplo de imagen](/imagenes/Leonardo_Signature_playstation_0.jpg)
