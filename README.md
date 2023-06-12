@@ -46,4 +46,6 @@ Agradezco a todos aquellos que brindaron su apoyo y contribuyeron al desarrollo 
 
 ¡Muchas gracias!
 
+*Nota: El dataset recopila un total de 20,000 comentarios variados de diez juegos distintos. El objetivo principal de este conjunto de datos es utilizarlo para entrenar un modelo de Procesamiento de Lenguaje Natural (PLN) con el fin de clasificar los comentarios como positivos o negativos. Ha sido subido a kaggle para su libre uso: https://www.kaggle.com/datasets/giottomillan/reviews-videogames*
+
 ![Ejemplo de imagen](/imagenes/Leonardo_Signature_playstation_0.jpg)
